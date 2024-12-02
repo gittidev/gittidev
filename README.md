@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,vue,django" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,ts,next,git,vue,django" />
   </a>
 </p>
 
