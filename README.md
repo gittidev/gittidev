@@ -27,7 +27,10 @@ Here are some ideas to get you started:
  <li>🌱 I’m currently learning : node.js/React.js/typescript</li>
  <li>📫 How to reach me: qhfka961@gmail.com</li>
   <li>portfolio: https://www.miricanvas.com/v/14exi21</li>
+   <li>velog: https://velog.io/@qhfka961/posts</li>
+  
 </p>
+
 
 
 
