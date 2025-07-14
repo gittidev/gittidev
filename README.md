@@ -25,7 +25,7 @@ WebSocket 기반의 실시간 통신 기능에 흥미를 느끼고 프로젝트�
 | **CRAM** | WebSocket 기반 실시간 CS 퀴즈 플랫폼 | [🔗 GitHub](https://github.com/CS-Quiz/CS-Quiz) · [🌐 배포](http://ec2-13-125-187-28.ap-northeast-2.compute.amazonaws.com/) |
 | **대광PC** | Supabase 기반 건설현장 관리 및 메인 페이지 | [🔗 GitHub](https://github.com/gittidev/DK) · [🌐 배포](https://daekwang.site/) |
 | **딸깍 (Ttalkak)** | Electron + Docker + WebSocket 기반 자동 배포 데스크탑 앱 | [🔗 GitHub](https://github.com/ttalkak) · [🌐 시연영상](https://drive.google.com/file/d/1js4fp3JqNJeQjxfPD53579oChui9PrTY/view?usp=drive_link) |
-| **SroryBoat** | Pub/Sub 구조의 실시간 퀴즈 대전 시스템 | [🔗 GitHub](https://github.com/gittidev/Storyboat) · [🌐 시연영상](https://drive.google.com/file/d/1effF1OTSyWCgLvEwY9FcNvzh7E11mhiP/view?usp=drive_link) |
+| **SroryBoat** | react flow를 사용한 실시간 협업 스토리텔링 플랫폼 | [🔗 GitHub](https://github.com/gittidev/Storyboat) · [🌐 시연영상](https://drive.google.com/file/d/1effF1OTSyWCgLvEwY9FcNvzh7E11mhiP/view?usp=drive_link) |
 
 
 
