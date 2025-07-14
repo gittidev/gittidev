@@ -26,6 +26,7 @@ Here are some ideas to get you started:
  <li>🔭 I'm currently studying at : 삼성청년 SW 아카데미</li>
  <li>🌱 I’m currently learning : node.js/React.js/typescript</li>
  <li>📫 How to reach me: qhfka961@gmail.com</li>
+  <li>portfolio: https://www.miricanvas.com/v/14exi21</li>
 </p>
 
 
