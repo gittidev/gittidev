@@ -15,6 +15,7 @@ WebSocket 기반의 실시간 통신 기능에 흥미를 느끼고 프로젝트�
 - 📫 Email: qhfka961@gmail.com  
 - 📘 Portfolio: [miricanvas 보기](https://www.miricanvas.com/v/14exi21)  
 - ✍️ Velog: [velog.io/@qhfka961](https://velog.io/@qhfka961/posts)
+- 🪪 Licenses & Certifications : SQLD(SQL 개발자), 리눅스마스터 2급, 네이버 클라우드 플랫폼 Associate (NCA), 컴퓨터활용능력 1급
 
 ---
 
