@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 <p>
  <li>🔭 I'm currently studying at : 삼성청년 SW 아카데미</li>
  <li>🌱 I’m currently learning : node.js/React.js/typescript</li>
+
+   <li>license : sqld, 리눅스마스터 2급, nca(네이버 클라우드)</li>
  <li>📫 How to reach me: qhfka961@gmail.com</li>
   <li>portfolio: https://www.miricanvas.com/v/14exi21</li>
    <li>velog: https://velog.io/@qhfka961/posts</li>
