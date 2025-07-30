@@ -32,7 +32,6 @@
 ![Recoil](https://img.shields.io/badge/-Recoil-3578E5?style=flat)
 
 **Testing**  
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
 
 **Styling**
