@@ -1,60 +1,65 @@
-## 👋Boram
+## 👋 Boram
 
-### 🧠 About Me
+Frontend → Computer Vision으로 영역을 넓혀가는 개발자.
+간단한 CRUD 백엔드와 배포까지 직접 다룹니다.
 
-- 🔭 삼성청년 SW 아카데미
-- 📚 방송통신대학교 컴퓨터과학과 3학년 재학 중
-- 📡 관심 분야: 실시간 서비스,WebSocket,VR
-- 📫 Email: qhfka961@gmail.com  
-- 📘 Portfolio: [miricanvas 보기](https://www.miricanvas.com/v/14exi21)  
-- ✍️ Velog: [velog.io/@qhfka961](https://velog.io/@qhfka961/posts)
-- 🪪 Licenses & Certifications : SQLD(SQL 개발자), 리눅스마스터 2급, 네이버 클라우드 플랫폼 Associate (NCA), 컴퓨터활용능력 1급
+Frontend developer expanding into Computer Vision, comfortable with simple backends and deployment.
 
 ---
-### 🛠 Tech Stack
 
-**Languages**  
-![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
+### About
+
+- 🎓 방송통신대학교 컴퓨터과학과
+- 🏫 삼성청년 SW 아카데미 수료
+- 🎯 관심 분야: 실시간 서비스 · WebSocket · Computer Vision
+- 🌱 Currently exploring AWS
+- ✍️ [Velog](https://velog.io/@qhfka961/posts)
+- 🔗 [Portfolio](https://gittidev.github.io)
+
+---
+
+### Certifications
+
+**정보처리기사** · SQLD · 리눅스마스터 2급 · NCA (Naver Cloud Associate) · 컴퓨터활용능력 1급
+
+---
+
+### Tech Stack
+
+**Languages**
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
 
-**Frameworks**  
+**Frontend**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
-![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=fff)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=fff)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=fff)
+
+**Backend / CV**
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
-
-**State Management**  
-![React Query](https://img.shields.io/badge/-ReactQuery-FF4154?style=flat&logo=reactquery&logoColor=fff)
-![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat&logo=zotero&logoColor=white)
-![Recoil](https://img.shields.io/badge/-Recoil-3578E5?style=flat)
-
-**Testing**  
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
-
-**Styling**
-
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-![Styled Components](https://img.shields.io/badge/-StyledComponents-DB7093?style=flat&logo=styled-components)
-![MUI](https://img.shields.io/badge/-MUI-007FFF?style=flat&logo=mui&logoColor=white)
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)
-
----
-![Boram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gittidev&show_icons=true&theme=default)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 ---
 
-### 🧩 Real-time Projects
+### GitHub Stats
 
-| 프로젝트명 | 설명 | 링크 |
-|------------|------|------|
-| **CRAM** | WebSocket 기반 실시간 CS 퀴즈 플랫폼 | [🔗 GitHub](https://github.com/CS-Quiz/CS-Quiz) · [🌐 배포](http://ec2-13-125-187-28.ap-northeast-2.compute.amazonaws.com/) |
-| **대광PC** | Supabase 기반 건설현장 관리 및 메인 페이지 | [🔗 GitHub](https://github.com/gittidev/DK) · [🌐 배포](https://daekwang.site/) |
-| **딸깍 (Ttalkak)** | Electron + Docker + WebSocket 기반 자동 배포 데스크탑 앱 | [🔗 GitHub](https://github.com/ttalkak) · [🌐 시연영상](https://drive.google.com/file/d/1js4fp3JqNJeQjxfPD53579oChui9PrTY/view?usp=drive_link) |
-| **SroryBoat** | react flow를 사용한 실시간 협업 스토리텔링 플랫폼 | [🔗 GitHub](https://github.com/gittidev/Storyboat) · [🌐 시연영상](https://drive.google.com/file/d/1effF1OTSyWCgLvEwY9FcNvzh7E11mhiP/view?usp=drive_link) |
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=gittidev&show_icons=true&hide_border=true&theme=default" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gittidev&layout=compact&hide_border=true&theme=default" height="160" />
+</p>
 
-<!--
-**gittidev/gittidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+---
+
+### Projects
+
+| 프로젝트 | 설명 | 링크 |
+|---------|------|------|
+| **CRAM** | WebSocket 기반 실시간 CS 퀴즈 플랫폼 | [GitHub](https://github.com/CS-Quiz/CS-Quiz) · [Demo](http://ec2-13-125-187-28.ap-northeast-2.compute.amazonaws.com/) |
+| **대광PC** | Supabase 기반 건설현장 관리 페이지 | [GitHub](https://github.com/gittidev/DK) · [Demo](https://daekwang.site/) |
+| **딸깍 (Ttalkak)** | Electron + Docker + WebSocket 자동 배포 데스크탑 앱 | [GitHub](https://github.com/ttalkak) · [Demo](https://drive.google.com/file/d/1js4fp3JqNJeQjxfPD53579oChui9PrTY/view?usp=drive_link) |
+| **Storyboat** | React Flow 기반 실시간 협업 스토리텔링 플랫폼 | [GitHub](https://github.com/gittidev/Storyboat) · [Demo](https://drive.google.com/file/d/1effF1OTSyWCgLvEwY9FcNvzh7E11mhiP/view?usp=drive_link) |
