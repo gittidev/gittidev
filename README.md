@@ -2,10 +2,10 @@
 
 **Software Developer · Vision AI Engineer**
 
-간호 → 임상연구 → 재난·안전 행정에서 개발로 커리어를 전환했습니다.
+**간호 → 재난·안전 행정 → 임상연구 → 개발**로 커리어를 전환했습니다.
 지금은 헬스케어 스타트업에서 모델 학습 · 세그멘테이션 파이프라인 · 백엔드 · 프론트엔드까지 end-to-end로 일합니다.
 
-Switched from nursing, clinical-trial research, and disaster-safety administration into tech.
+Path: **nursing → disaster-safety administration → clinical research → software**.
 Now working end-to-end at a healthcare startup — model training, segmentation pipelines, backend services, and frontend.
 
 - 🏢 **Dallgoo Inc.** — Developer (Frontend · Vision AI · Infra), 2025 – Present
@@ -20,7 +20,7 @@ Now working end-to-end at a healthcare startup — model training, segmentation 
 | Product | What it is | Stack |
 |---------|------------|-------|
 | **NEURIXIA** | 뇌 미세순환 분석 데스크탑 앱. 킥오프부터 납품까지 **~2개월 풀스택**(모델 학습 · 백엔드 · 데스크탑). nnUNet 2D segmentation + ONNX Runtime 실시간 추론, Dual-Phase 26개 미세순환 지표, ROI 추적 · 배치 큐 · 히스토리 비교 | Electron · React · ONNX Runtime · nnUNet · FastAPI |
-| **BREATH AI** | 카메라 기반 CPR 품질 분석 (A:기도 / B:BVM / C:압박). 고가 센서 장비를 비전으로 대체, 비식별 와이어프레임 모드. 현재 **BVM 파이프라인** — 마네킹 센서 패킷과 화면 비전 신호를 시계열로 정렬해 LSTM 학습 *(개발 중)* | RT-DETR · YOLO · Pose · LSTM · PyTorch |
+| **BREATH AI** | 카메라 기반 CPR 품질 분석 (A:기도 / B:BVM / C:압박). 고가 센서 장비를 비전으로 대체, 비식별 와이어프레임 모드. 현재 **BVM 파이프라인** — 마네킹 센서 패킷과 화면 비전 신호를 시계열로 정렬해 LSTM 학습. **Jetson Orin Nano · DEEPX NPU** 엣지 배포 타깃 *(개발 중)* | RT-DETR · YOLO · Pose · LSTM · PyTorch · Jetson · DEEPX |
 | **dallgoo.com** | 스마트 구급 출동 회사 홈페이지 (KR/EN/JP · 반응형 · SEO) + 호출(dispatch) 대시보드 UI/UX 개편 · 모바일 앱 UI 개선 | Vue 3 · TypeScript · Tailwind · Pinia |
 
 ---
@@ -44,6 +44,10 @@ Now working end-to-end at a healthcare startup — model training, segmentation 
 ![ONNX](https://img.shields.io/badge/-ONNX%20Runtime-005CED?style=flat&logo=onnx&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/-MediaPipe-0097A7?style=flat&logo=google&logoColor=white)
+
+**Edge AI / Hardware**
+![Jetson Orin Nano](https://img.shields.io/badge/-Jetson%20Orin%20Nano-76B900?style=flat&logo=nvidia&logoColor=white)
+![DEEPX NPU](https://img.shields.io/badge/-DEEPX%20NPU-1B1B1F?style=flat&logoColor=white)
 
 **Backend / Real-time / Infra**
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
