@@ -85,7 +85,7 @@ Now working end-to-end at a healthcare startup — model training, segmentation 
 | 프로젝트 | 설명 | 링크 |
 |---------|------|------|
 | **Ttalkak (딸깍)** | GitHub 연동 원클릭 배포 데스크탑 앱. 자동 Dockerfile 생성 · 실시간 컨테이너 모니터링 · 자원 제공자 블록체인 보상 | [GitHub](https://github.com/ttalkak) |
-| **Toudeuk** | 실시간 보상 클릭 게임. Kafka · Redis 기반 고동시성 아키텍처 *(Team Lead)* | [GitHub](https://github.com/gittidev/Toudeuk) |
+| **Toudeuk** | 실시간 보상 클릭 게임. Redis 기반 고동시성 아키텍처 *(Team Lead)* | [GitHub](https://github.com/gittidev/Toudeuk) |
 | **StoryBoat** | WebRTC P2P · Yjs(CRDT) 동기화 · ReactFlow 실시간 협업 스토리텔링 *(Team Lead)* | [GitHub](https://github.com/gittidev/Storyboat) |
 | **CRAM** | WebSocket 기반 실시간 CS 퀴즈 플랫폼 | [GitHub](https://github.com/CS-Quiz/CS-Quiz) |
 
