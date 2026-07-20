@@ -76,11 +76,11 @@ Now working end-to-end at a healthcare startup — model training, segmentation 
 
 ### 🩺 Earlier — Clinical Research
 
-전남대학교병원 임상시험센터 **CRC** (2021.02 – 2023.01) · 면역 · 피부 · 호흡기 · 백신 분야 다기관 임상시험 다수 관리 (스크리닝 · 투약 · 안전성 보고 전 과정). 자세한 목록은 [포트폴리오 CV](https://gittidev.github.io) 참고.
+전남대학교병원 임상시험센터 **CRC** (2021.02 – 2023.01) · 면역 · 피부 · 호흡기 · 백신 분야 다기관 임상시험 다수 관리 (스크리닝 · 투약 · 안전성 보고 전 과정).
 
 ---
 
-### 🚀 Selected Projects
+### 🚀 Projects
 
 | 프로젝트 | 설명 | 링크 |
 |---------|------|------|
@@ -88,8 +88,6 @@ Now working end-to-end at a healthcare startup — model training, segmentation 
 | **Toudeuk** | 실시간 보상 클릭 게임. Kafka · Redis 기반 고동시성 아키텍처 *(Team Lead)* | [GitHub](https://github.com/gittidev/Toudeuk) |
 | **StoryBoat** | WebRTC P2P · Yjs(CRDT) 동기화 · ReactFlow 실시간 협업 스토리텔링 *(Team Lead)* | [GitHub](https://github.com/gittidev/Storyboat) |
 | **CRAM** | WebSocket 기반 실시간 CS 퀴즈 플랫폼 | [GitHub](https://github.com/CS-Quiz/CS-Quiz) |
-| **Marsh Movie** | TMDB API 영화 추천 · 커뮤니티 · GPT 챗봇 | [GitHub](https://github.com/gittidev/Movie_PJT) |
-| **대광PC** | Supabase 기반 건설현장 관리 페이지 (Naver Map 연동) | [GitHub](https://github.com/gittidev/DK) |
 
 ---
 
