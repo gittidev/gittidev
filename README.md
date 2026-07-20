@@ -11,7 +11,7 @@ Now working end-to-end at a healthcare startup — model training, segmentation 
 - 🏢 **Dallgoo Inc.** — Developer (Frontend · Vision AI · Infra), 2025 – Present
 - 🎓 방송통신대학교 컴퓨터과학과 (4학년 재학) · 조선대학교 간호학과 졸업
 - 🏫 삼성청년 SW 아카데미(SSAFY) 수료
-- ✍️ [Velog](https://velog.io/@qhfka961/posts) · 🔗 [Portfolio](https://gittidev.github.io)
+- ✍️ [Velog](https://velog.io/@qhfka961/posts) 
 
 ---
 
