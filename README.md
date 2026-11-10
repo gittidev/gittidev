@@ -2,26 +2,36 @@
 
 **Software Developer · Vision AI Engineer**
 
-**간호 → 재난·안전 행정 → 임상연구 → 개발**로 커리어를 전환했습니다.
-지금은 헬스케어 스타트업에서 모델 학습 · 세그멘테이션 파이프라인 · 백엔드 · 프론트엔드까지 end-to-end로 일합니다.
+Career path: **nursing → disaster-safety administration → clinical research → software**.
+I work end-to-end — data pipelines, model training, backend services, and frontend.
 
-Path: **nursing → disaster-safety administration → clinical research → software**.
-Now working end-to-end at a healthcare startup — model training, segmentation pipelines, backend services, and frontend.
-
-- 🏢 **Dallgoo Inc.** — Developer (Frontend · Vision AI · Infra), 2025 – Present
-- 🎓 방송통신대학교 컴퓨터과학과 (4학년 재학) · 조선대학교 간호학과 졸업
-- 🏫 삼성청년 SW 아카데미(SSAFY) 수료
-- ✍️ [Velog](https://velog.io/@qhfka961/posts) 
+- 🎓 Korea National Open University — Computer Science (senior) · Chosun University — B.S. in Nursing
+- 🏫 Samsung Software Academy for Youth (SSAFY)
+- ✍️ [Velog](https://velog.io/@qhfka961/posts)
 
 ---
 
-### 🏥 Now Building @ Dallgoo
+### 🔭 Currently Working On
+
+**Drone & LiDAR remote sensing** — semantic segmentation of 2 cm/px aerial imagery and 3D voxel mapping from LiDAR point clouds, covering the whole loop from data pipeline and labeling to training, inference, and web visualization.
+
+| Area | What I've used |
+|------|----------------|
+| Segmentation | U-Net (ResNet34 encoder) with multi-channel input (RGB + LiDAR height/roughness) · compared DINOv2 + LoRA and ConvNeXt encoders · CE + Dice + area-consistency losses |
+| Labeling | SAM2 auto-masks for label drafts · custom brush labeling tool |
+| 3D / Geo | LiDAR point clouds (laspy, PDAL) · photogrammetry (OpenDroneMap) · multispectral imagery · GeoTIFF / UTM rasters (rasterio) · PostGIS |
+| MLOps | MLflow experiment tracking · Dockerized GPU training & inference workers |
+| Visualization | three.js / WebGL voxel rendering · MapLibre GL |
+
+---
+
+### 🏥 Previous Work — Healthcare Vision AI (2025 – 2026)
 
 | Product | What it is | Stack |
 |---------|------------|-------|
-| **NEURIXIA** | 뇌 미세순환 분석 데스크탑 앱. 킥오프부터 납품까지 **~2개월 풀스택**(모델 학습 · 백엔드 · 데스크탑). nnUNet 2D segmentation + ONNX Runtime 실시간 추론, Dual-Phase 26개 미세순환 지표, ROI 추적 · 배치 큐 · 히스토리 비교 | Electron · React · ONNX Runtime · nnUNet · FastAPI |
-| **BREATH AI** | 카메라 기반 CPR 품질 분석 (A:기도 / B:BVM / C:압박). 고가 센서 장비를 비전으로 대체, 비식별 와이어프레임 모드. 현재 **BVM 파이프라인** — 마네킹 센서 패킷과 화면 비전 신호를 시계열로 정렬해 LSTM 학습. **Jetson Orin Nano · DEEPX NPU** 엣지 배포 타깃 *(개발 중)* | RT-DETR · YOLO · Pose · LSTM · PyTorch · Jetson · DEEPX |
-| **dallgoo.com** | 스마트 구급 출동 회사 홈페이지 (KR/EN/JP · 반응형 · SEO) + 호출(dispatch) 대시보드 UI/UX 개편 · 모바일 앱 UI 개선 | Vue 3 · TypeScript · Tailwind · Pinia |
+| **NEURIXIA** | Desktop app for cerebral microcirculation analysis. Built **full-stack in ~2 months** from kickoff to delivery (model training · backend · desktop). nnU-Net 2D segmentation + ONNX Runtime real-time inference, 26 dual-phase microcirculation metrics, ROI tracking · batch queue · history comparison | Electron · React · ONNX Runtime · nnU-Net · FastAPI |
+| **BREATH AI** | Camera-based CPR quality analysis (A: airway / B: BVM / C: compressions) that replaces costly sensor equipment with vision, with a de-identified wireframe mode. Worked on the **BVM pipeline** — aligning manikin sensor packets with on-screen vision signals as time series to train an LSTM; edge targets Jetson Orin Nano · DEEPX NPU | RT-DETR · YOLO · Pose · LSTM · PyTorch · Jetson · DEEPX |
+| **Company website & dispatch UI** | Website for a smart ambulance dispatch company (KR/EN/JP · responsive · SEO), dispatch dashboard UI/UX redesign, and mobile app UI improvements | Vue 3 · TypeScript · Tailwind · Pinia |
 
 ---
 
@@ -60,34 +70,34 @@ Now working end-to-end at a healthcare startup — model training, segmentation 
 
 ### 📜 Certifications
 
-**NVIDIA DLI — Building Real-Time Video AI Applications** (2026) · **NVIDIA DLI — Getting Started with Deep Learning** (2026) · **정보처리기사** (2025) · **리눅스마스터 2급** (2025) · **NCA** Naver Cloud Associate (2025) · **SQLD** (2025) · **건설안전기사** (2018) · **컴퓨터활용능력 1급** (2018) · **간호사 면허** (2017)
+**NVIDIA DLI — Building Real-Time Video AI Applications** (2026) · **NVIDIA DLI — Getting Started with Deep Learning** (2026) · **Engineer Information Processing** (2025) · **Linux Master Level 2** (2025) · **NCA** Naver Cloud Certified Associate (2025) · **SQLD** SQL Developer (2025) · **Engineer Construction Safety** (2018) · **Computer Specialist in Spreadsheet & Database Level 1** (2018) · **Registered Nurse License** (2017)
 
 ---
 
 ### 🎓 Teaching · Mentoring
 
-- **동일미래고등학교** — `AI 활용 프로젝트` 강사 (2025.12 – 2026.02, 고교연계형 지역대학 특성화 사업)
-- **고교연계 교육과정 협의체** — 자문위원 (광주보건대학교 총장 위촉, 2026.05 – 2027.05)
-- **전남대학교 SW중심사업단** — 동계/하계 인턴십 멘토 (at Dallgoo Inc.)
-- **SSAFY 14기** — 기업연계 프로젝트 기업 멘토
-- **RISE 사업** — 기업 측 담당 (광주보건대 · 기독간호대 컨소시엄)
+- **Dongil Mirae High School** — Instructor, *AI Project* course (Dec 2025 – Feb 2026, high school–university linkage program)
+- **High School–College Linked Curriculum Council** — Advisory committee member (appointed by the President of Gwangju Health University, May 2026 – May 2027)
+- **Chonnam National University SW-Centered University Program** — Winter/summer internship mentor
+- **SSAFY 14th cohort** — Industry mentor for company-linked projects
+- **RISE Program** — Industry-side coordinator (Gwangju Health University · Christian College of Nursing consortium)
 
 ---
 
 ### 🩺 Earlier — Clinical Research
 
-전남대학교병원 임상시험센터 **CRC** (2021.02 – 2023.01) · 면역 · 피부 · 호흡기 · 백신 분야 다기관 임상시험 다수 관리 (스크리닝 · 투약 · 안전성 보고 전 과정).
+**Clinical Research Coordinator (CRC)**, Chonnam National University Hospital Clinical Trial Center (Feb 2021 – Jan 2023) · managed multiple multi-center trials in immunology, dermatology, respiratory, and vaccines (screening · dosing · safety reporting).
 
 ---
 
 ### 🚀 Projects
 
-| 프로젝트 | 설명 | 링크 |
-|---------|------|------|
-| **Ttalkak (딸깍)** | GitHub 연동 원클릭 배포 데스크탑 앱. 자동 Dockerfile 생성 · 실시간 컨테이너 모니터링 · 자원 제공자 블록체인 보상 | [GitHub](https://github.com/ttalkak) |
-| **Toudeuk** | 실시간 보상 클릭 게임. Redis 기반 고동시성 아키텍처 *(Team Lead)* | [GitHub](https://github.com/gittidev/Toudeuk) |
-| **StoryBoat** | WebRTC P2P · Yjs(CRDT) 동기화 · ReactFlow 실시간 협업 스토리텔링 *(Team Lead)* | [GitHub](https://github.com/gittidev/Storyboat) |
-| **CRAM** | WebSocket 기반 실시간 CS 퀴즈 플랫폼 | [GitHub](https://github.com/CS-Quiz/CS-Quiz) |
+| Project | Description | Link |
+|---------|-------------|------|
+| **Ttalkak** | One-click deployment desktop app integrated with GitHub — auto-generated Dockerfiles · real-time container monitoring · blockchain rewards for resource providers | [GitHub](https://github.com/ttalkak) |
+| **Toudeuk** | Real-time reward click game on a Redis-based high-concurrency architecture *(Team Lead)* | [GitHub](https://github.com/gittidev/Toudeuk) |
+| **StoryBoat** | Real-time collaborative storytelling with WebRTC P2P · Yjs (CRDT) sync · ReactFlow *(Team Lead)* | [GitHub](https://github.com/gittidev/Storyboat) |
+| **CRAM** | WebSocket-based real-time CS quiz platform | [GitHub](https://github.com/CS-Quiz/CS-Quiz) |
 
 ---
 
