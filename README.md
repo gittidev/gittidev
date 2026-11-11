@@ -30,7 +30,7 @@ I work end-to-end — data pipelines, model training, backend services, and fron
 | Product | What it is | Stack |
 |---------|------------|-------|
 | **NEURIXIA** | Desktop app for cerebral microcirculation analysis. Built **full-stack in ~2 months** from kickoff to delivery (model training · backend · desktop). nnU-Net 2D segmentation + ONNX Runtime real-time inference, 26 dual-phase microcirculation metrics, ROI tracking · batch queue · history comparison | Electron · React · ONNX Runtime · nnU-Net · FastAPI |
-| **BREATH AI** | Camera-based CPR quality analysis (A: airway / B: BVM / C: compressions) that replaces costly sensor equipment with vision, with a de-identified wireframe mode. Worked on the **BVM pipeline** — aligning manikin sensor packets with on-screen vision signals as time series to train an LSTM; edge targets Jetson Orin Nano · DEEPX NPU | RT-DETR · YOLO · Pose · LSTM · PyTorch · Jetson · DEEPX |
+| **BREATH AI** | Camera-based CPR quality analysis for training feedback | Vision AI · PyTorch · Edge AI |
 | **Company website & dispatch UI** | Website for a smart ambulance dispatch company (KR/EN/JP · responsive · SEO), dispatch dashboard UI/UX redesign, and mobile app UI improvements | Vue 3 · TypeScript · Tailwind · Pinia |
 
 ---
